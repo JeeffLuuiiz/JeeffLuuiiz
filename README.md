@@ -4,6 +4,10 @@
 
 <h3>📂 Projetoas em Desenvolvimento</h3>
   - Em Desenvolvimento
+  - To Do List
+  - Manual de Atendimento
+  - Telas de Login
+  - Kaban Corporativo
 
 
   
