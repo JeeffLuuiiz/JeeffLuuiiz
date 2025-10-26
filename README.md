@@ -3,15 +3,13 @@
 <h1>Jefferson Luiz</h1>
 
 <h3>📂 Projetoas em Desenvolvimento</h3>
-  - Em Desenvolvimento
-  - To Do List
-  - Manual de Atendimento
-  - Telas de Login
-  - Kaban Corporativo
-
-
-  
-
+  <ul>
+    <li>Em Desenvolvimento</li>
+    <li>To Do List</li>
+    <li>Manual de Atendimento</li>
+    <li>Telas de Login</li>
+    <li>Kaban Corporativo</li>
+  </ul>
 
 <!--
 **JeeffLuuiiz/JeeffLuuiiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
