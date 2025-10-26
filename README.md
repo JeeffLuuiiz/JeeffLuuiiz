@@ -3,7 +3,7 @@
 # Jefferson Luiz 
 👋 Sou gestor de pessoas há mais de 10 anos e apaixonado por tecnologia. Tenho me dedicado ao aprendizado em desenvolvimento Front-end e Back-end, com foco em criar aplicações que auxiliem empresas no acompanhamento de indicadores e ajudem times de gestão a tomarem decisões mais assertivas.</br>
 
-### 📂 Projetoas em Desenvolvimento
+### 📂 Projetos em Desenvolvimento:
   <ul>
     <li>📘 Manual de Atendimento • 🧾 POP (Procedimentos Operacionais Padrão) • 🛠️ IT (Instrução de Trabalho) • 🧩 Diretrizes</li>
     <li>🔐 Telas de Login Personalizadas</li>
@@ -19,7 +19,7 @@
 ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=white)
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
 
-## Conhecimento em Desenvolvimento
+## Conhecimento em Desenvolvimento:
 
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
